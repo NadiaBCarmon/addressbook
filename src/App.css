@@ -1,0 +1,24 @@
+
+.title {
+  border: 2px solid black;
+  text-align: center;
+  font-size: 60px;
+  background: #FFF11B;
+  color: black;
+  font-weight: bold;
+  padding: 40px;
+  height: 150px;
+  width: 900px;
+  float: top;
+  margin: 0 auto;
+}
+
+.list {
+	text-align: center;
+}
+
+.textandsubmit {
+	float: none;
+	margin: 0 auto;
+	
+}
