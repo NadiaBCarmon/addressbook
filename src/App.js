@@ -8,7 +8,7 @@ class App extends React.Component {
   render() {
     return (
       <div className="parent">
-        <div className="title"><h1>The Bride's List</h1></div>
+        <div className="title"><h1>Address Book</h1></div>
         <br />
         <br />
         <br />
