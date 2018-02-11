@@ -5,13 +5,15 @@ import './Layout.css';
 class TextAndSubmit extends React.Component {
 
 
-
-	constructor(props) {
-		super(props);
-		this.state = {
-			contacts: props.contacts
-		};
-	}
+	// constructor(props) {
+	// 	super(props);
+	// 	this.state = {
+	// 		name: this.refs.name.value ,
+	// 		email: ,
+	// 		phone: ,
+	// 		address: 
+	// 	};
+	// }
 
 	addContact(event) {
 		event.preventDefault();
@@ -24,7 +26,6 @@ class TextAndSubmit extends React.Component {
 			//search: '',
 			//contacts: this.state.contacts.concat({name, email, phone, address})
 		//})
-
 	}
 
 
